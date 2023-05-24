@@ -8,7 +8,18 @@ This repository for 2023 AI CUP acoustics competition.
 |6 / 371|0.659922|28 / 371|0.558209|
 
 ## Enviroment
-
+Setup enviroment:  
+```
+conda env create -n ~~~
+conda activate ~~~
+```
+Important packages:  
+```
+pip install librosa
+pip install pandas
+pip install torch
+pip install sklearn
+```
 ## Model
 - ```1_AI_CUP_mfcc_??.ipynb```: Models trained with different parameter ```n_mfcc```.  
 - ```2_ensemble.ipynb```: Use ensemble method to combine the predictions of five models.
