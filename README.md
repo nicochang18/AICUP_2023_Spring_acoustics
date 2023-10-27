@@ -1,6 +1,5 @@
 # AICUP_2023_Spring_acoustics
-
-This repository for 2023 AI CUP acoustics competition.
+>Repository for 2023 AI CUP acoustics competition.
 
 ## Leaderboard
 |Public Rank|Public Score|Private Rank|Private Score|
@@ -13,7 +12,7 @@ Setup enviroment:
 conda env create -n ~~~
 conda activate ~~~
 ```
-Important packages:  
+## Packages: 
 ```
 pip install librosa
 pip install pandas
