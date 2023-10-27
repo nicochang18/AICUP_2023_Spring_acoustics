@@ -3,7 +3,7 @@
 This repository for 2023 AI CUP acoustics competition.
 
 ## Leaderboard
-|Public Score|Public Rank|Private Score|Private Rank|
+|Public Rank|Public Score|Private Rank|Private Score|
 |--|--|--|--|
 |6 / 371|0.659922|28 / 371|0.558209|
 
