@@ -1,5 +1,6 @@
 # AICUP_2023_Spring_acoustics
->Repository for 2023 AI CUP acoustics competition.
+>Repository for 2023 AI CUP acoustics competition.  
+>[Full report](https://github.com/nicochang18/AICUP_2023_Spring_acoustics/blob/main/2023AI%20CUP_reprt.pdf)
 
 ## Leaderboard
 |Public Rank|Public Score|Private Rank|Private Score|
